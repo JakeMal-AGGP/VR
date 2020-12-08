@@ -4,7 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MinigolfMenu.unity
+    guid: 104f5a962b4629548a0dda70356f229e
+  - enabled: 1
+    path: Assets/Scenes/Minigolf.unity
+    guid: 44f27e6be73c1c54984c469cc134c9be
+  - enabled: 1
+    path: Assets/Scenes/Minigolf2.unity
+    guid: 2741e5fc2a5729744a9c56219c318740
+  - enabled: 1
+    path: Assets/Scenes/Minigolf3.unity
+    guid: 4ae855213b6b8fc428bc96d065810b64
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: dfe13a0437b7cb04d84ca92aaae769e6,
       type: 2}
